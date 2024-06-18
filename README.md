@@ -13,7 +13,7 @@ I have keen interest in technolgy and loves development work . Currently working
 *   Working with Social Summer of Code
 *   Working with Zummit InfoLabs
 *   Apperentice in CodeForces
-*   Doing Research in Number Theory.
+*   Doing Research in Number Theory and Game Theory.
   
 *   ### Skills 
 <p align="left">
