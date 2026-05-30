@@ -15,8 +15,6 @@ I'm a software engineer, quant engineer, and startup founder focused on AI, fina
 - 📈 Quant Engineer at Quantegies
 - 🧠 Researching Number Theory, Game Theory, and Quantitative Finance
 - 🌍 Based in India
-- 💪 Calisthenics Enthusiast
-- 🎌 Anime Fan
 - ❤️ Open Source Contributor
 
 ---
