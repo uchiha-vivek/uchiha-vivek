@@ -45,19 +45,7 @@ I'm a software engineer, quant engineer, and startup founder focused on AI, fina
 <a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="Java" /></a>
 </p>
 
----
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=uchiha-vivek&show_icons=true&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uchiha-vivek&layout=compact&theme=github_dark" />
-</p>
-
----
 
 ## Connect With Me
 
