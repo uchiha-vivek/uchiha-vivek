@@ -4,13 +4,6 @@
 Software Engineer • Quant Engineer • Maths Solver
 </h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/vivekuchiha/">LinkedIn</a> •
-  <a href="https://x.com/VivekSh80330931">X</a> •
-  <a href="https://github.com/uchiha-vivek">GitHub</a> •
-  <a href="mailto:viveksharma7497@gmail.com">Email</a>
-</p>
-
 ---
 
 ## About Me
@@ -50,8 +43,8 @@ I'm a software engineer, quant engineer, and startup founder focused on AI, fina
 ## Connect With Me
 
 <p align="center">
-  <a href="mailto:viveksharma7497@gmail.com">📧 Email</a> •
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">💼 LinkedIn</a> •
-  <a href="https://x.com/YOUR_X_HANDLE">𝕏 Twitter</a> •
-  <a href="https://github.com/YOUR_USERNAME">🐙 GitHub</a>
+  <a href="https://www.linkedin.com/in/vivekuchiha/">LinkedIn</a> •
+  <a href="https://x.com/VivekSh80330931">X</a> •
+  <a href="https://github.com/uchiha-vivek">GitHub</a> •
+  <a href="mailto:viveksharma7497@gmail.com">Email</a>
 </p>
