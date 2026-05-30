@@ -10,12 +10,12 @@ Software Engineer • Quant Engineer • Maths Solver
 
 I'm a software engineer, quant engineer, and startup founder focused on AI, financial technology, and scalable systems.
 
-- 🚀 Technical Co-Founder at Ally Solutions
-- 💻 Software Engineer at Attack Capital (YC W22)
-- 📈 Quant Engineer at Quantegies
-- 🧠 Researching Number Theory, Game Theory, and Quantitative Finance
-- 🌍 Based in India
-- ❤️ Open Source Contributor
+- Technical Co-Founder at Ally Solutions
+- Software Engineer at Attack Capital (YC W22)
+- Quant Engineer at Quantegies
+- Researching Number Theory, Game Theory, and Quantitative Finance
+- Based in India
+- Open Source Contributor
 
 ---
 
