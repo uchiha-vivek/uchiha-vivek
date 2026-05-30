@@ -50,11 +50,11 @@ I'm a software engineer, quant engineer, and startup founder focused on AI, fina
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=uchiha-vivek&show_icons=true&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uchiha-vivek&layout=compact&theme=github_dark" />
 </p>
 
 ---
