@@ -5,9 +5,9 @@ Software Engineer • Quant Engineer • Maths Solver
 </h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">LinkedIn</a> •
-  <a href="https://x.com/YOUR_X_HANDLE">X</a> •
-  <a href="https://github.com/YOUR_USERNAME">GitHub</a> •
+  <a href="https://www.linkedin.com/in/vivekuchiha/">LinkedIn</a> •
+  <a href="https://x.com/VivekSh80330931">X</a> •
+  <a href="https://github.com/uchiha-vivek">GitHub</a> •
   <a href="mailto:viveksharma7497@gmail.com">Email</a>
 </p>
 
@@ -15,16 +15,16 @@ Software Engineer • Quant Engineer • Maths Solver
 
 ## About Me
 
-I'm a software engineer passionate about building scalable products, solving mathematical problems, and contributing to open source.
+I'm a software engineer, quant engineer, and startup founder focused on AI, financial technology, and scalable systems.
 
+- 🚀 Technical Co-Founder at Ally Solutions
+- 💻 Software Engineer at Attack Capital (YC W22)
+- 📈 Quant Engineer at Quantegies
+- 🧠 Researching Number Theory, Game Theory, and Quantitative Finance
 - 🌍 Based in India
-- 💼 Full Stack Developer
-- 🚀 Previously worked at immer (US Startup)
-- 🌱 Working with Social Summer of Code
-- 🏢 Working with Zummit InfoLabs
-- 📚 Researching Number Theory & Game Theory
 - 💪 Calisthenics Enthusiast
-- 🎌 Anime Fan (Uchiha Vivek)
+- 🎌 Anime Fan
+- ❤️ Open Source Contributor
 
 ---
 
